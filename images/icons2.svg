@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="icons2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.77771465"
+     inkscape:cx="39.217469"
+     inkscape:cy="219.23208"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1347">
+      <stop
+         style="stop-color:#dd52dd;stop-opacity:1"
+         offset="0"
+         id="stop1343" />
+      <stop
+         style="stop-color:#9100c4;stop-opacity:1"
+         offset="1"
+         id="stop1345" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1347"
+       id="linearGradient2369"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-67.924919,38.73621)"
+       x1="81.49041"
+       y1="-106.44188"
+       x2="190.51546"
+       y2="-106.44188" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:none;stroke-width:1.2351;stroke-linecap:round;stroke-dashoffset:303.714"
+       id="rect968"
+       width="135.46666"
+       height="135.46666"
+       x="-0.027643871"
+       y="0.34468466"
+       inkscape:export-filename="C:\src\SubPar\images\Icon.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:url(#linearGradient2369);fill-opacity:1;stroke:none;stroke-width:0.994455;stroke-linecap:round;stroke-dashoffset:303.714"
+       id="rect1050"
+       width="109.02505"
+       height="109.12137"
+       x="13.565491"
+       y="-122.26637"
+       transform="rotate(90)"
+       ry="23.773157"
+       inkscape:export-filename="C:\src\SubPar\images\Icon.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g2887"
+       inkscape:export-filename="C:\src\SubPar\images\Icon.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         id="rect1584"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.08378;stroke-linecap:round;stroke-dashoffset:303.714"
+         d="M 124.4668 100.00586 C 110.11126 100.00586 98.554688 111.56243 98.554688 125.91797 L 98.554688 388.6875 C 98.554688 403.04303 110.11126 414.59961 124.4668 414.59961 L 387.32422 414.59961 C 401.67975 414.59961 413.23633 403.04303 413.23633 388.6875 L 413.23633 125.91797 C 413.23633 111.56243 401.67975 100.00586 387.32422 100.00586 L 124.4668 100.00586 z M 138.97656 139.85742 L 372.91016 139.85742 L 372.91016 374.14062 L 138.97656 374.14062 L 138.97656 139.85742 z "
+         transform="scale(0.26458333)" />
+      <g
+         id="g2318"
+         transform="translate(0.6850674,0.51030927)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:6.32428;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 46.610028,83.180411 H 87.431209"
+           id="path2214" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:6.32428;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 46.610028,92.195875 H 87.431209"
+           id="path2314" />
+      </g>
+    </g>
+  </g>
+</svg>
